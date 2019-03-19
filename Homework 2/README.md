@@ -1,6 +1,6 @@
 # HW 2
 
-The goal of this homework is to create a convolutional neural network for the CIFAR10 data set. See this colab notebook how to load the CIFAR data in Keras.
+The goal of this homework is to create a convolutional neural network for the CIFAR10 data set. 
 
 Make sure that the data is divided into:
 
